@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/hand-gesture-volume-controller/issues) page
+1. Check the [Issues](https://github.com/abirxgpt/hand-gesture-volume-controller/issues) page
 2. Create a new issue with detailed description
 3. Include system information and error logs
 
@@ -253,6 +253,6 @@ If this project helped you, please consider:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Abir Gupta**
 
 *"Control your world with a wave of your hand"*
