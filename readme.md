@@ -108,10 +108,6 @@ hand-gesture-volume-controller/
 ├── requirements.txt           # Python dependencies
 ├── README.md                 # Project documentation
 ├── demo.gif                  # Demo animation
-└── screenshots/              # Application screenshots
-    ├── menu_view.png
-    ├── volume_control.png
-    └── gestures_demo.png
 ```
 
 ## 🔧 Configuration
